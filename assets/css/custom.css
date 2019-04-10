@@ -530,6 +530,10 @@ footer li.signup-link a:hover {
 	height: auto;
 }
 
+.post-image img {
+	max-height: 100px !important;
+}
+
 .post-details {
 	font-size: 12px;
 	width: 90%;

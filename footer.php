@@ -13,8 +13,6 @@
 
 	</div><!-- #content -->
 
-
-	
 	<!-- SIGN UP SECTION
 	================================================== -->
 	<section id="signup" data-type="background" data-speed="4">

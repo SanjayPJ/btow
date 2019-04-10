@@ -351,8 +351,7 @@ get_header();
 			</div><!-- row -->
 		</div><!-- container -->
 	</section><!-- kudos -->
-	
-
+		
 
 <?php
 get_footer();

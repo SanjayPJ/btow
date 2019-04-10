@@ -70,7 +70,7 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li class="active"><a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a></li>
+							<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>">Home</a></li>
 							<li><a href="<?php echo esc_url( home_url( '/blog' ) ); ?>">Blog</a></li>
 							<li><a href="<?php echo esc_url( home_url( '/resources' ) ); ?>">Resources</a></li>
 							<li><a href="<?php echo esc_url( home_url( '/contact' ) ); ?>">Contact</a></li>
