@@ -531,7 +531,8 @@ footer li.signup-link a:hover {
 }
 
 .post-image img {
-	max-height: 100px !important;
+	max-height: 300px !important;
+	object-fit: cover;
 }
 
 .post-details {

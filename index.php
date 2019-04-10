@@ -77,7 +77,7 @@ get_header();
 		    	<div class="widget">
 		    		<form role="form" class="search-form" method="GET" action="<?php echo get_home_url(); ?>">
 		    			<label for="sidebar-search" class="sr-only">Search the blog</label>
-		    			<input name="s" type="text" placeholder="Search the blog..." id="sidebar-search">
+		    			<input name="s" type="text" placeholder="Search the blog..." id="sidebar-search" value="<?php echo htmlspecialchars($_GET["s"]); ?>">
 		    		</form>
 		    	</div><!-- widget -->
 		    	
